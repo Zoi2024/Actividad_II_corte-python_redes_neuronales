@@ -1,0 +1,5 @@
+root = tk.Tk()
+root.title("Clasificador MNIST - Interfaz Visual")
+root.geometry("850x520")
+root.configure(bg="#ffffff")
+root.resizable(False, False)
