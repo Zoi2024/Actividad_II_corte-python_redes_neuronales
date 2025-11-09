@@ -1,3 +1,4 @@
+```python
 lbl_titulo = tk.Label(right_frame, text="Panel de Control",
                       font=("Poppins", 20, "bold"), bg=blanco, fg=azul)
 lbl_titulo.pack(pady=30)

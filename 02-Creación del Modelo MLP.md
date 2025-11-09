@@ -1,4 +1,4 @@
-
+```python
 def crear_modelo():
     model = Sequential([
         Flatten(input_shape=(28, 28)),         # Convierte imágenes 28x28 en vector 784

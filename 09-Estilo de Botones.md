@@ -1,3 +1,5 @@
+```python
+
 style = ttk.Style()
 style.theme_use("clam")
 style.configure("TButton",

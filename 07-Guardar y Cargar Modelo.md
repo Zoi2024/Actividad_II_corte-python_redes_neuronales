@@ -1,3 +1,4 @@
+```python
 def guardar_modelo():
     if model:
         model.save("modelo_mnist.h5")

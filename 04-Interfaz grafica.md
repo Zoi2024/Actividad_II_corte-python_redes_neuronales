@@ -1,3 +1,4 @@
+```python
 root = tk.Tk()
 root.title("Clasificador MNIST - Interfaz Visual")
 root.geometry("850x520")

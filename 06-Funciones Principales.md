@@ -1,3 +1,4 @@
+```python
 def entrenar_modelo():
     def ejecutar_entrenamiento():
         global model, history

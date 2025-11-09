@@ -1,3 +1,4 @@
+```python
 azul = "#4B5CF0"
 blanco = "#ffffff"
 
